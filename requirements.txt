@@ -1,0 +1,5 @@
+moviepy
+yt-dlp
+pydantic
+fastapi
+uvicorn
